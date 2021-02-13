@@ -13,7 +13,7 @@ There are four main components to the tool available here, with descriptions bel
 
 1) Population without SMDW calculation:
 
-Builds the data layer (image at 1 km resolution) of population without SMDW using the JMP GeoFabric (built separately, available in FigShare) and the WorldPop 2017 residential population counts. Result is shown in Figures 1a-b.
+Builds the data layer (image at 1 km resolution) of population without SMDW using the JMP GeoFabric (built separately, tool to build in FigShare) and the WorldPop 2017 residential population counts. Result is shown in Figures 1a-b.
   
 2) AWH-Geo:
 
