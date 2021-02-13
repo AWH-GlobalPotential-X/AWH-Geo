@@ -29,7 +29,7 @@ Runs a cumulative histogram by 0.5 L/day output bins of population without SMDW 
 
 OUTPUT TABLES: An Output Table in Google Sheets and housed in your Google Drive folder is necessary to run AWH-Geo. 
 
-Several Output Tables were used for the limits analysis (Figure 2a-c) and the final results (Figure 3b-c) in the paper, and are accessible here: https://drive.google.com/drive/folders/1z1V1nGLJy9g7SSvizrahmGd5imDGq5lR?usp=sharing. You can copy these to your Drive. Once copied to your Drive, these preloaded Output Tables can be run through AWH-Geo by entering their CODENAME (characters after "OutputTable_" in the document name).
+Several Output Tables were used for the limits analysis (Figure 2a-c) and the final results (Figure 3b-c) in the paper, and are accessible here: https://drive.google.com/drive/folders/1z1V1nGLJy9g7SSvizrahmGd5imDGq5lR. You can copy these to your Drive. Once copied to your Drive, these preloaded Output Tables can be run through AWH-Geo by entering their CODENAME (characters after "OutputTable_" in the document name).
 
 
 For questions, please contact the paper's corresponding author Jackson Lord at jacksonlord@gmail.com
