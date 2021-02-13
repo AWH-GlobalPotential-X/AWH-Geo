@@ -19,12 +19,17 @@ Builds the data layer (image at 1 km resolution) of population without SMDW usin
 
 Geospatial pipeline for calculating the mean output (L/day) worldwide of any AWH device or experimental characterization. Also runs moving averages for time-based statistics for output shortfall and variability metrics. Includes a "TEST SUBSET" script which can be run in a small portion of the dataset. This tool was used to produce Figures 2a-c of the upper limit values of various AWH methods.
 
-2) AWH-Geo_threshold:
+3) AWH-Geo_threshold:
 
 Special-case of AWH-Geo to conduct coincidence analysis of primary climate drivers of AWH: relative humidity (rH in %) & global horizonatl irradiance from sunlight (GHI in W/m^2). Also included is a version of this tool using secondary population (LandScan 2017 from ORNL) and climate timeseries (GLDAS from NASA). This was used to produce Figures 3a-b.
 
-3) Population without SMDW by Output Scenario:
+4) Population without SMDW by Output Scenario:
 
 Runs a cumulative histogram by 0.5 L/day output bins of population without SMDW who live in an area above each output bin across several scenarios: 2 real devices, 1 experimental sorbent material, 2 upper limits, and 6 characteristic curves which reach a target user base (500 million, 1.0 billion, and 1.5 billion people without SMDW).
+
+OUTPUT TABLES: An Output Table in Google Sheets and housed in your Google Drive folder is necessary to run AWH-Geo. 
+
+Several Output Tables were used for the limits analysis (Figure 2a-c) and the final results (Figure 3b-c) in the paper, and are accessible here: https://drive.google.com/drive/folders/1z1V1nGLJy9g7SSvizrahmGd5imDGq5lR?usp=sharing. You can copy these to your Drive. Once copied to your Drive, these preloaded Output Tables can be run through AWH-Geo by entering their CODENAME (characters after "OutputTable_" in the document name).
+
 
 For questions, please contact the paper's corresponding author Jackson Lord at jacksonlord@gmail.com
