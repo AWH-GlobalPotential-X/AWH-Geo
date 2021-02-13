@@ -27,8 +27,6 @@ Special-case of AWH-Geo to conduct coincidence analysis of primary climate drive
 
 Runs a cumulative histogram by 0.5 L/day output bins of population without SMDW who live in an area above each output bin across several scenarios: 2 real devices, 1 experimental sorbent material, 2 upper limits, and 6 characteristic curves which reach a target user base (500 million, 1.0 billion, and 1.5 billion people without SMDW).
 
-OUTPUT TABLES: An Output Table in Google Sheets and housed in your Google Drive folder is necessary to run AWH-Geo. 
-
-Several Output Tables were used for the limits analysis (Figure 2a-c) and the final results (Figure 3b-c) in the paper, and are accessible here: https://drive.google.com/drive/folders/1z1V1nGLJy9g7SSvizrahmGd5imDGq5lR. You can copy these to your Drive (to any location). Once copied to your Drive, remove the "Copy of " in the beginning of the name of the new file which now lives in your Drive. This can be then run through AWH-Geo using their CODENAME (characters after "OutputTable_" in the document name).
+OUTPUT TABLES: An Output Table in Google Sheets and housed in your Google Drive folder is necessary to run AWH-Geo. Several Output Tables were used for the limits analysis (Figure 2a-c) and the final results (Figure 3b-c) in the paper, and are accessible here: https://drive.google.com/drive/folders/1z1V1nGLJy9g7SSvizrahmGd5imDGq5lR. You can copy these to your Drive (to any location). Once copied to your Drive, remove the "Copy of " in the beginning of the name of the new file which now lives in your Drive. This can be then run through AWH-Geo using their CODENAME (characters after "OutputTable_" in the document name).
 
 For questions, please contact the paper's corresponding author Jackson Lord at jacksonlord@gmail.com
