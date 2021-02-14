@@ -7,6 +7,8 @@ The tool uses a global climate timeseries at high spatio-temporal resolution (ER
 
 The tool components here are built in Google's CoLab tool using the Earth Engine Python API. Derivative data layers reside as assets in Earth Engine and are called in the tool. These data layers are also accessible separately in FigShare (DOI:10.6084/m9.figshare.13568273).
 
+REQUIREMENTS: You must have an account with [Google Drive](https://drive.google.com/drive/my-drive) and [Earth Engine Account](https://developers.google.com/earth-engine/) with a home folder. Once signed up with Earth Engine, to create a home folder, go to the code editor (https://code.earthengine.google.com/), click the "Assets" tab, and create a folder with a username of your choice. 
+
 TO RUN THE TOOLS: Simply click the "Open in CoLab" icon at the top of each tool and follow the instructions. The processing will run in an open Google runtime and process through your account in Google Earth Engine.
 
 There are four main components to the tool available here, with descriptions below:
