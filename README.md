@@ -1,7 +1,7 @@
 # AWH-Geo
-AWH-Geo tool and calculations for the paper Global Potential of Harvesting Drinking Water from Air using Solar Energy.
+AWH-Geo tool and calculations for the paper "Global Potential of Harvesting Drinking Water from Air using Solar Energy", currently in-review at Nature.
 
-This tool was built at X (formerly Google X) for a product design requirement assessment and market analysis for a novel portable water-from-air device (atmospheric water harvester or AWH) for supplying drinking water needs to some portion of the 2.2 billion worldwide without access. Understanding the output in L/day of a modeled device is critical for product design iteration to drive down costs per unit water and increase adoption. 
+This tool was built at X (formerly Google X) as a product requirement assessment for a novel portable water-from-air device (atmospheric water harvester or AWH). It's primary purpose is to calculate the potential for AWH to supply drinking water needs to some portion of the 2.2 billion worldwide without access. Understanding the output in L/day of a modeled device is critical for device design iteration, understanding costs per unit water volume, and user adoption. 
 
 The tool uses a global climate timeseries at high spatio-temporal resolution (ERA5-Land at 9 km, 1-hr interval) over the five-year period 2013-2018. Other climate data could be substituted if desired by the user. 
 
