@@ -9,7 +9,7 @@ The tool components here are built in Google's CoLab tool using the Earth Engine
 
 REQUIREMENTS: You must have an account with [Google Drive](https://drive.google.com/drive/my-drive) and [Earth Engine Account](https://developers.google.com/earth-engine/) with a home folder. Once signed up with Earth Engine, to create a home folder, go to the [code editor](https://code.earthengine.google.com/), click the "Assets" tab, and create a folder with a username of your choice. 
 
-TO RUN THE TOOLS: Simply click the "Open in CoLab" icon at the top of each tool and follow the instructions. The processing will run in an open Google runtime and process through your account in Google Earth Engine.
+TO RUN THE TOOLS: Select a tool in the "notebooks" folder, and simply click the "Open in CoLab" icon at the top of each tool and follow the instructions. The processing will run in an open Google runtime and process through your account in Google Earth Engine.
 
 There are four main components to the tool available here, with descriptions below:
 
