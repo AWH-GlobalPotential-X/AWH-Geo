@@ -33,4 +33,11 @@ OUTPUT TABLES: An Output Table in Google Sheets and housed in your Google Drive 
 
 FIGURE CREATION: Code to produce figure 4 for paper are included and can be run as standalone script.
 
+LICENSE: This work is covered under an Apache 2.0 license. A few external data sources and code packages are used which fall under other licensing arrangements which must be abided by the user of this tool, as follows (as of August 2021):
+- ERA5-Land data set (https://apps.ecmwf.int/datasets/licences/copernicus/)
+- GLDAS 2.1 data set (https://disc.gsfc.nasa.gov/information/documents?title=data-policy)
+- WorldPop 2017 (https://creativecommons.org/licenses/by/4.0/)
+- Google Earth Engine API (https://earthengine.google.com/terms/)
+- gspread (python module) (https://github.com/burnash/gspread/blob/v3.7.0/LICENSE.txt)
+
 For questions, please contact the paper's corresponding author Jackson Lord at jacksonlord@gmail.com
