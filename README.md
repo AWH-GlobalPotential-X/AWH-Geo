@@ -23,7 +23,7 @@ Geospatial pipeline for calculating the mean output (L/day) worldwide of any AWH
 
 3) AWH-Geo_threshold:
 
-Special-case of AWH-Geo to conduct coincidence analysis of primary climate drivers of AWH: relative humidity (rH in %) & global horizontal irradiance from sunlight (GHI in W/m^2). Also included is a version of this tool using a secondary climate timeseries (GLDAS from NASA). This was used to produce Figures 4a-b. Running the entire timeseries for all the thresholds will take a very long time and likely exceed a user's storage quota in Earth Engine. For this reason, we've included the results of this analysis in the Git data folder as "results_thresholds.csv" and "results_thresholds_adj.csv" -- upload this into the root directory of your Drive folder to run the remainder of the script to produce figures for the coincidence analysis.
+Special-case of AWH-Geo to conduct coincidence analysis of primary climate drivers of AWH: relative humidity (rH in %) & global horizontal irradiance from sunlight (GHI in W/m^2). Also included is a version of this tool using a secondary climate timeseries (GLDAS from NASA). This was used to produce Figures 4a-b. Running the entire timeseries for all the thresholds will take a very long time and likely exceed a user's storage quota in Earth Engine. For this reason, we include here the results of this analysis: [results_thresholds.csv](https://drive.google.com/file/d/1IslYu1PW0PR84-ZaSL39poZYhWrIYAUW/) and [results_thresholds_adj.csv](https://drive.google.com/file/d/1F_6sdWE-uRRACG2vUTNrR7V3loZDmMYv/) -- copy these into the root directory of your Drive folder to run the remainder of the script to produce figures for the coincidence analysis.
 
 4) Population without SMDW by Output Scenario:
 
